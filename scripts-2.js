@@ -102,7 +102,6 @@ function checkGameEnd() {
     } else {
       winner = 'Gelijkspel';
     }
-
     alert(`De winnaar is: ${winner}`);
   }
 }
